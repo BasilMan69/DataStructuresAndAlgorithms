@@ -1,3 +1,5 @@
+package edu.princeton.cs.algs4;
+
 /******************************************************************************
  *  Compilation:  javac ThreeSum.java
  *  Execution:    java ThreeSum input.txt
@@ -25,7 +27,9 @@
  *
  ******************************************************************************/
 
-package edu.princeton.cs.algs4;
+ import edu.princeton.cs.algs4.In;
+ import edu.princeton.cs.algs4.StdOut;
+ import edu.princeton.cs.algs4.Stopwatch;
 
 /**
  *  The {@code ThreeSum} class provides static methods for counting
